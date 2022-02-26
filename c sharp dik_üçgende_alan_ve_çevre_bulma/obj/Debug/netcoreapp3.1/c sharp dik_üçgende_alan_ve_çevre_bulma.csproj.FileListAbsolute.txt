@@ -1,0 +1,15 @@
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\bin\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.exe
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\bin\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.deps.json
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\bin\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.runtimeconfig.json
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\bin\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.runtimeconfig.dev.json
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\bin\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.dll
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\bin\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.pdb
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.csprojAssemblyReference.cache
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c_sharp_dik_üçgende_alan_ve_çevre_bulma.Form1.resources
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.csproj.GenerateResource.cache
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.AssemblyInfoInputs.cache
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.AssemblyInfo.cs
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.csproj.CoreCompileInputs.cache
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.dll
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.pdb
+D:\c sharp dik_üçgende_alan_ve_çevre_bulma\c sharp dik_üçgende_alan_ve_çevre_bulma\obj\Debug\netcoreapp3.1\c sharp dik_üçgende_alan_ve_çevre_bulma.genruntimeconfig.cache
