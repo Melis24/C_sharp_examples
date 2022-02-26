@@ -1,0 +1,15 @@
+D:\c sharp sinema örneği\c sharp sinema örneği\bin\Debug\netcoreapp3.1\c sharp sinema örneği.exe
+D:\c sharp sinema örneği\c sharp sinema örneği\bin\Debug\netcoreapp3.1\c sharp sinema örneği.deps.json
+D:\c sharp sinema örneği\c sharp sinema örneği\bin\Debug\netcoreapp3.1\c sharp sinema örneği.runtimeconfig.json
+D:\c sharp sinema örneği\c sharp sinema örneği\bin\Debug\netcoreapp3.1\c sharp sinema örneği.runtimeconfig.dev.json
+D:\c sharp sinema örneği\c sharp sinema örneği\bin\Debug\netcoreapp3.1\c sharp sinema örneği.dll
+D:\c sharp sinema örneği\c sharp sinema örneği\bin\Debug\netcoreapp3.1\c sharp sinema örneği.pdb
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c sharp sinema örneği.csprojAssemblyReference.cache
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c_sharp_sinema_örneği.Form1.resources
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c sharp sinema örneği.csproj.GenerateResource.cache
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c sharp sinema örneği.AssemblyInfoInputs.cache
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c sharp sinema örneği.AssemblyInfo.cs
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c sharp sinema örneği.csproj.CoreCompileInputs.cache
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c sharp sinema örneği.dll
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c sharp sinema örneği.pdb
+D:\c sharp sinema örneği\c sharp sinema örneği\obj\Debug\netcoreapp3.1\c sharp sinema örneği.genruntimeconfig.cache
